@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resume</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .pdf-frame { border: 0; width: 100vw; height: calc(100vh - 64px); }
+    @media (max-width: 640px) { .pdf-frame { height: calc(100vh - 96px); } }
+    body { margin: 0; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <nav class="nav-links" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="resume.html" aria-current="page">Resume</a>
+        <a href="summer-2024-adknown.html">Work Term 1 - Summer 2024 - Adknown</a>
+        <a href="fall-2024-adknown.html">Work Term 2 - Fall 2024 - Adknown</a>
+        <a href="summer-2025-cibc.html">Work Term 3 - Summer 2025 - CIBC</a>
+      </nav>
+    </div>
+  </header>
+
+  <iframe class="pdf-frame" src="resume.pdf"></iframe>
+</body>
+</html>

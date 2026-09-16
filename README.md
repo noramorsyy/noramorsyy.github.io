@@ -4,6 +4,8 @@ Static site with a Home page and three work-term pages. Images are now integrate
 
 ## Files
 - `index.html` — Home
+- `Summer-2026-cibc.html` — Work Term 5 (inline images)
+- `Winter-2026-cibc.html` — Work Term 4 (inline images)
 - `summer-2025-cibc.html` — Work Term 3 (inline images)
 - `summer-2024-adknown.html` — Work Term 1 (inline images)
 - `fall-2024-adknown.html` — Work Term 2 (inline images)

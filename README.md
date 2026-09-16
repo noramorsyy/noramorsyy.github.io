@@ -15,4 +15,8 @@ Static site with a Home page and three work-term pages. Images are now integrate
 ## Publish on GitHub Pages
 1. Create a public repository on GitHub.
 2. Upload all files at the repo root.
-3. In **Settings → Pages**, set **Source** to **Deploy from a branch**, bra
+3. In **Settings → Pages**, set **Source** to **Deploy from a branch**, branch `main`, folder `/root`.
+4. Save and open the URL GitHub shows.
+
+## Local preview
+Open `index.html` in a browser.
